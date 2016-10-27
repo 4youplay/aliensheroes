@@ -1,0 +1,108 @@
+{
+  "moves":36,
+  "mult":1,
+  "levelType":1,
+  "objetivo":0,
+  "coresI":1,
+  "coresF":5,
+  "azuis":12,
+  "verdes":0,
+  "amarelos":0,
+  "vermelhos":0,
+  "laranjas":0,
+  "rosas":0,
+  "pecas":12,
+  "blocks":0,
+  "chocos":36,
+  "orderAzul":2,
+  "orderVermelho":-1,
+  "orderAmarelo":-1,
+  "orderVerde":-1,
+  "orderRosa":-1,
+  "orderChoco":1,
+  "orderBlock":-1,
+  "orderPeca":0,
+  "numberObj":3,
+  "pontuacao":12000,
+  "monsters":0,
+  "orderMonster":-1,
+
+
+  "tiles":
+  [
+    {"tipo":0,"i":3},
+    {"tipo":0,"i":10},
+    {"tipo":0,"i":17},
+    {"tipo":0,"i":24},
+    {"tipo":0,"i":31},
+    {"tipo":0,"i":38},
+    {"tipo":0,"i":45},
+    {"tipo":0,"i":52},
+    {"tipo":0,"i":59}
+
+
+  ],
+
+  "tilesB":
+  [
+    {"col":0,"row":0,"lifes":2,"i":0},
+    {"col":1,"row":0,"lifes":2,"i":1},
+    {"col":2,"row":0,"lifes":2,"i":2},
+    {"col":4,"row":0,"lifes":2,"i":4},
+    {"col":5,"row":0,"lifes":2,"i":5},
+    {"col":6,"row":0,"lifes":2,"i":6},
+    {"col":0,"row":1,"lifes":2,"i":7},
+    {"col":1,"row":1,"lifes":2,"i":8},
+    {"col":5,"row":1,"lifes":2,"i":12},
+    {"col":6,"row":1,"lifes":2,"i":13},
+    {"col":6,"row":2,"lifes":2,"i":20},
+    {"col":0,"row":2,"lifes":2,"i":14}
+
+  ],
+
+  "tilesC":
+  [
+
+    {"lifes":2,"i":49},
+    {"lifes":2,"i":50},
+    {"lifes":2,"i":51},
+    {"lifes":2,"i":42},
+    {"lifes":2,"i":43},
+    {"lifes":2,"i":44},
+    {"lifes":2,"i":35},
+    {"lifes":2,"i":36},
+    {"lifes":2,"i":37},
+    {"lifes":2,"i":28},
+    {"lifes":2,"i":29},
+    {"lifes":2,"i":30},
+    {"lifes":2,"i":21},
+    {"lifes":2,"i":22},
+    {"lifes":2,"i":23},
+    {"lifes":2,"i":15},
+    {"lifes":2,"i":16},
+    {"lifes":2,"i":9},
+    {"lifes":2,"i":53},
+    {"lifes":2,"i":54},
+    {"lifes":2,"i":55},
+    {"lifes":2,"i":46},
+    {"lifes":2,"i":47},
+    {"lifes":2,"i":48},
+    {"lifes":2,"i":39},
+    {"lifes":2,"i":40},
+    {"lifes":2,"i":41},
+    {"lifes":2,"i":32},
+    {"lifes":2,"i":33},
+    {"lifes":2,"i":34},
+    {"lifes":2,"i":25},
+    {"lifes":2,"i":26},
+    {"lifes":2,"i":27},
+    {"lifes":2,"i":18},
+    {"lifes":2,"i":19},
+    {"lifes":2,"i":11}
+  ],
+
+  "tmonsters":
+  [
+
+  ]
+}

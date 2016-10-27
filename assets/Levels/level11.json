@@ -1,0 +1,82 @@
+{
+  "moves":25,
+  "mult":2,
+  "levelType":2,
+  "objetivo":2,
+  "coresI":1,
+  "coresF":5,
+  "azuis":0,
+  "verdes":0,
+  "amarelos":0,
+  "vermelhos":0,
+  "laranjas":0,
+  "rosas":0,
+  "pecas":10,
+  "blocks":2,
+  "chocos":0,
+  "orderAzul":-1,
+  "orderVermelho":-1,
+  "orderAmarelo":-1,
+  "orderVerde":-1,
+  "orderRosa":-1,
+  "orderChoco":-1,
+  "orderBlock":1,
+  "orderPeca":0,
+  "numberObj":2,
+  "pontuacao":4250,
+  "monsters":0,
+  "orderMonster":-1,
+
+
+  "tiles":
+  [
+    {"tipo":0,"i":0},
+    {"tipo":0,"i":6},
+    {"tipo":0,"i":62},
+    {"tipo":0,"i":56},
+    {"tipo":0,"i":57},
+    {"tipo":0,"i":58},
+    {"tipo":0,"i":59},
+    {"tipo":0,"i":60},
+    {"tipo":0,"i":61},
+    {"tipo":0,"i":7},
+    {"tipo":0,"i":14},
+    {"tipo":0,"i":21},
+    {"tipo":0,"i":28},
+    {"tipo":0,"i":35},
+    {"tipo":0,"i":42},
+    {"tipo":0,"i":49},
+    {"tipo":0,"i":13},
+    {"tipo":0,"i":20},
+    {"tipo":0,"i":27},
+    {"tipo":0,"i":34},
+    {"tipo":0,"i":41},
+    {"tipo":0,"i":48},
+    {"tipo":0,"i":55}
+
+  ],
+
+  "tilesB":
+  [
+    {"col":1,"row":0,"lifes":1,"i":1},
+    {"col":2,"row":0,"lifes":1,"i":2},
+    {"col":3,"row":0,"lifes":1,"i":3},
+    {"col":4,"row":0,"lifes":1,"i":4},
+    {"col":5,"row":0,"lifes":1,"i":5},
+    {"col":1,"row":1,"lifes":1,"i":8},
+    {"col":2,"row":1,"lifes":1,"i":9},
+    {"col":3,"row":1,"lifes":1,"i":10},
+    {"col":4,"row":1,"lifes":1,"i":11},
+    {"col":5,"row":1,"lifes":1,"i":12}
+  ],
+
+  "tilesC":
+  [
+
+  ],
+
+  "tmonsters":
+  [
+
+  ]
+}

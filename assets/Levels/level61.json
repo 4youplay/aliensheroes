@@ -1,0 +1,65 @@
+{
+  "moves":32,
+  "mult":1,
+  "levelType":2,
+  "objetivo":3,
+  "coresI":1,
+  "coresF":5,
+  "azuis":0,
+  "verdes":0,
+  "amarelos":0,
+  "vermelhos":0,
+  "laranjas":0,
+  "rosas":0,
+  "pecas":0,
+  "blocks":3,
+  "chocos":0,
+  "orderAzul":-1,
+  "orderVermelho":-1,
+  "orderAmarelo":-1,
+  "orderVerde":-1,
+  "orderRosa":-1,
+  "orderChoco":-1,
+  "orderBlock":0,
+  "orderPeca":-1,
+  "numberObj":1,
+  "pontuacao":5000,
+  "monsters":0,
+  "orderMonster":-1,
+
+
+  "tiles":
+  [
+    {"tipo":0,"i":49},
+    {"tipo":0,"i":42},
+    {"tipo":0,"i":55},
+    {"tipo":0,"i":48},
+    {"tipo":0,"i":54},
+    {"tipo":0,"i":59},
+    {"tipo":0,"i":50},
+    {"tipo":0,"i":7},
+    {"tipo":0,"i":14},
+    {"tipo":0,"i":20},
+    {"tipo":0,"i":13},
+    {"tipo":0,"i":3}
+
+
+  ],
+
+  "tilesB":
+  [
+
+  ],
+
+  "tilesC":
+  [
+
+  ],
+
+  "tmonsters":
+  [
+
+  ]
+}
+
+
